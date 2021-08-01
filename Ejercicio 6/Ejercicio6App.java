@@ -1,4 +1,4 @@
-package Objectos;
+package objectos;
 
 public class Ejercicio6App {
 
